@@ -1,3 +1,5 @@
+**Live demo:** [Try the app here](https://doc-intelligence-app-rcsgyteuhpzdwd9f5jo6iu.streamlit.app/)
+
 # Tips Hindawi Challenge (June–July) 2026
 
 > This repository is my official submission for the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
