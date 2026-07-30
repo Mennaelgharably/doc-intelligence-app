@@ -1,8 +1,8 @@
-# 🚀 Tips Hindawi Challenge (June–July) 2026
+# Tips Hindawi Challenge (June–July) 2026
 
-> 🏆 This repository is my official submission for the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
+> This repository is my official submission for the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
 
-## 👤 Participant
+## Participant
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
@@ -15,13 +15,13 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 An AI-powered document Q&A tool that lets users upload any PDF and ask questions about it in plain English. Built using Retrieval-Augmented Generation (RAG): the document is chunked, converted into embeddings locally, and matched against the user's question using cosine similarity. The most relevant chunks are passed to Llama 3.3 (via Groq's free API) to generate a grounded, structured answer — displayed as a clear Answer, Key Points, and Confidence rating.
 
 ---
 
-# ✨ Features
+# Features
 
 * Upload any PDF and ask free-form questions about its contents
 * Fully free stack — no paid APIs, no paid hosting
@@ -31,7 +31,7 @@ An AI-powered document Q&A tool that lets users upload any PDF and ask questions
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 * **Streamlit** — web interface and deployment
 * **pdfplumber** — PDF text extraction
@@ -42,7 +42,7 @@ An AI-powered document Q&A tool that lets users upload any PDF and ask questions
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ```bash
 git clone https://github.com/Mennaelgharably/doc-intelligence-app.git
@@ -58,7 +58,7 @@ GROQ_API_KEY = "your_key_here"
 
 ---
 
-# 🚀 Usage
+# Usage
 
 ```bash
 streamlit run app.py
@@ -70,19 +70,19 @@ streamlit run app.py
 
 ---
 
-# 📸 Demo
+# Demo
 
 *(add a screenshot or short screen recording of the app here once deployed)*
 
 ---
 
-# 📈 Results
+# Results
 
 Successfully built a complete RAG pipeline from scratch — PDF extraction, chunking, local embeddings, similarity-based retrieval, LLM-based grounded generation, and structured output parsing — deployed as a live, free, publicly accessible web app.
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 * Support for multiple file uploads / multi-document Q&A
 * Column-aware PDF extraction for complex academic layouts
@@ -91,7 +91,7 @@ Successfully built a complete RAG pipeline from scratch — PDF extraction, chun
 
 ---
 
-# 📚 About the Challenge
+# About the Challenge
 
 This project was developed as part of the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
 
@@ -101,6 +101,6 @@ For more information about the challenge, training programs, and upcoming batche
 
 ---
 
-# 📄 License
+# License
 
 This project is shared for educational and portfolio purposes.
