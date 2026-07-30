@@ -72,7 +72,9 @@ streamlit run app.py
 
 # Demo
 
-*(add a screenshot or short screen recording of the app here once deployed)*
+
+https://github.com/user-attachments/assets/78169856-4842-48b1-b66c-28ab0c4843c7
+
 
 ---
 
