@@ -1,6 +1,6 @@
 streamlit
-pdfplumber
+pymupdf
+python-docx
 sentence-transformers
-scikit-learn
-numpy
+faiss-cpu
 groq
